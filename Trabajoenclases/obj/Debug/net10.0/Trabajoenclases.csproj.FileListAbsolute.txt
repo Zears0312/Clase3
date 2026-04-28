@@ -1,0 +1,15 @@
+C:\Users\alumno\documents\trabajoenclases\bin\Debug\net10.0\Trabajoenclases.exe
+C:\Users\alumno\documents\trabajoenclases\bin\Debug\net10.0\Trabajoenclases.deps.json
+C:\Users\alumno\documents\trabajoenclases\bin\Debug\net10.0\Trabajoenclases.runtimeconfig.json
+C:\Users\alumno\documents\trabajoenclases\bin\Debug\net10.0\Trabajoenclases.dll
+C:\Users\alumno\documents\trabajoenclases\bin\Debug\net10.0\Trabajoenclases.pdb
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.AssemblyInfoInputs.cache
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.AssemblyInfo.cs
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.csproj.CoreCompileInputs.cache
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.sourcelink.json
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.dll
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\refint\Trabajoenclases.dll
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.pdb
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\Trabajoenclases.genruntimeconfig.cache
+C:\Users\alumno\documents\trabajoenclases\obj\Debug\net10.0\ref\Trabajoenclases.dll
