@@ -10,8 +10,17 @@ class Program
         Console.WriteLine(a*b);
         Console.WriteLine(a/b);
         Console.WriteLine(a%b);
-        double resultado = (double) a/b; //3.333.. conversion de string a numero
+        double resultado = (double) a/b; //3.333.. 
+        // conversion de string a numero
         string entrada = "42";
         int numero = int.parse(entrada);
+        //Try parse conversion segura 
+        if(double.TryParse("3.14", out double pi))
+            Console.WriteLine($"Pi = {pi}");
+        
+        // Asignacion compuesta
+        int puntos = 100;
+        puntos += 50;
+        puntos *= 2;
     }
 }
